@@ -25,4 +25,4 @@ This repository serves as a playground for experimenting with the integration of
 
 ## My Personal Comment
 
-After playing with HTMX and PHP around 2 hours, I can say that HTMX makes my life easier compared than using jQuery AJAX. Where I don't need to code a very long process (you know what I meant). I just need to use HTML attributes to make it works. But for more robust UI, you need to inject a custom JavaSCript code.
+After playing with HTMX and PHP around 2 hours, I can say that HTMX makes my life easier compared than using jQuery AJAX. Where I don't need to code a very long process (you know what I meant). I just need to use HTML attributes to make it works. But for more robust UI, you need to inject a custom JavaSCript code. I'm not sure either I'm using the HTMX in the correct way. However this repo is based on what I followed in the Documentation and based on my understanding. Feel free to comment if I'm doing the wrong way.
